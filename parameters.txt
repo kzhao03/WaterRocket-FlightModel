@@ -1,0 +1,8 @@
+rocket mass: 0.168
+rocket volume: 0.00211
+exhaust area: 0.000064
+gauge pressure: 276000
+atmospheric pressure: 101000
+drag coefficient: 0.155
+cross sectional area: 0.01
+initial water mass: 0.5
